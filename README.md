@@ -1,1 +1,1 @@
-"# halma_part" 
+my own part of game 'halma' with minimax
